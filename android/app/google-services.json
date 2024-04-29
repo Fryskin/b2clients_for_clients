@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "381969372251",
+    "project_id": "biss-to-cli-for-cli",
+    "storage_bucket": "biss-to-cli-for-cli.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381969372251:android:32352c1b3ee23ceca2db7e",
+        "android_client_info": {
+          "package_name": "com.example.b2clients_for_clients"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUJ34UOl-wJKepaWY7v9pySgDyc5PplBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
