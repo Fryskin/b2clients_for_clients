@@ -7,7 +7,7 @@ class BusinessToClientsForClientsApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Business To Clients',
+      title: 'Business To Clients for Clients',
 
       routes: routes,
       // initialRoute: '',
