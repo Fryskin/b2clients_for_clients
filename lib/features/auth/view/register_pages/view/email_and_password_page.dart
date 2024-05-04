@@ -53,6 +53,8 @@ class _RegisterPageState extends State<RegisterPage> {
       'create_time': currentUser.metadata.creationTime,
       'updateTime': currentUser.metadata.creationTime,
       'phone_number': '',
+      'name': '',
+      'surname': '',
     });
   }
 

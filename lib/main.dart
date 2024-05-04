@@ -7,7 +7,6 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
   await Firebase.initializeApp(
-    name: 'Biss To Cli For Cli',
     options: DefaultFirebaseOptions.currentPlatform,
   );
 
